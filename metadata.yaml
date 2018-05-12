@@ -1,0 +1,28 @@
+_repo: Edward-FitzGerald-and--Posh--Herring-Merchants-_20543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blyth, James
+    birthdate: 1864
+    deathdate: 1933
+    gutenberg_agent_id: '9370'
+    url: http://www.gutenberg.org/2009/agents/9370
+description: ''
+gutenberg_issued: '2007-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'FitzGerald, Edward, 1809-1883'
+- !lcc 'PR'
+title: 'Edward FitzGerald and "Posh"
+
+  "Herring Merchants"'
+url: http://www.gutenberg.org/ebooks/20543
